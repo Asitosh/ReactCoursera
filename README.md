@@ -1,1 +1,1 @@
-Simple Restaurant website buld using React, Reatstrap, Redux.
+This is simple Restraunt website built using react, reactstrap and redux.
